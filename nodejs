@@ -1,0 +1,11 @@
+A estrutura do diretório
+
+diff
+Copy code
+- node_modules/
+- gulpfile.js
+- .babelrc
+- package.json
+- styles.scss
+- index.html
+- app.js
